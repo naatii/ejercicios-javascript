@@ -5,6 +5,5 @@ function tabla(){
             multiplicacion=i*j
             document.write(i+" * "+j+" = "+multiplicacion+"<br>")
         }
-        
     }
 }
